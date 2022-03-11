@@ -4,6 +4,7 @@
 * ### [S4vitar en Youtube](#youtube)
 * ### [S4vitar en Twitch](#twitch)
 * ### [S4vitar en Odysee](#odysee)
+* ### [S4vitar en Mastermind](#mastermind)
 * ### [Canales recomendados](#otros)
 ### **¿Cómo empiezo en Ciberseguridad?**
 * ### [Como empiezo](#comoempiezo)
@@ -34,6 +35,10 @@
 * [S4vitaar](https://twitch.tv/s4vitaar) *(En Español)*
 ## <a name="odysee">S4vitar en Odysee</a>
 * [S4vitar](https://odysee.com/@s4vitar:f) *(En Español)*
+## <a name="mastermind">S4vitar en Mastermind</a>
+* [Curso de Introducción al Hacking Ético](https://www.mastermind.ac/courses/introduccion-al-hacking-etico?ref=9988c9)
+* [Hacking de Radiofrecuencia](https://www.mastermind.ac/courses/hacking-radiofrecuencia?ref=9988c9)
+* [Hacking de Redes Inalámbricas](https://www.mastermind.ac/courses/hacking-de-redes-inalambricas-wifi?ref=9988c9)
 ## <a name="otros">¡Otros canales recomendados!</a>
 * Canal de CyberMentor en Youtube **->** [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) *(En Inglés)*
 * Canal de IppSec en Youtube **->** [IppSec](https://youtube.com/ippsec) *(En Inglés)*
