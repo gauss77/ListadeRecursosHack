@@ -1,12 +1,12 @@
 # Lista de recursos de [H4ckNet](https://discord.gg/u3dsh9M) para empezar en Ciberseguridad
 
-**Canales**
+### **Canales**
 * ### [S4vitar en Youtube](#youtube)
 * ### [S4vitar en Twitch](#twitch)
 * ### [S4vitar en Odysee](#odysee)
 * ### [Canales recomendados](#otros)
 ### **¿Cómo empiezo en Ciberseguridad?**
-* ### [!comoempiezo](#comoempiezo)
+* ### [Como empiezo](#comoempiezo)
 ### **Pentesting**
 * ### [¿Qué es HackTheBox?](#hackthebox)
 * ### [Plataformas para praciticar Pentesting](#pentesting)
