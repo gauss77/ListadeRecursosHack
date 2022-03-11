@@ -12,6 +12,7 @@
 * ### [Plataformas para praciticar Pentesting](#pentesting)
 ### **GNU/Linux**
 * ### [Aprende GNU/Linux](#linux)
+* ### [Practica online](#linux)
 * ### [Instala GNU/Linux en Virtual Box](#linux)
 * ### [Distribuciones GNU/Linux](#linux)
 ### **Bash**
@@ -69,6 +70,7 @@ Chincheta en el canal **#general** de **HackTheBox** en [H4ckNet](https://discor
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="linux">GNU/Linux</a>
 * Aprende **GNU/Linux** con **->** [Antonio Sánchez Corbalán](https://www.youtube.com/watch?v=qWrgoCP6q3M&list=PLN9u6FzF6DLTRhmLLT-ILqEtDQvVf-ChM)
+* Practica online en **->** [Webminal](https://www.webminal.org/)
 * Como instalar **GNU/Linux** en VirtualBox **->** [ItsFOSS](https://itsfoss.com/install-linux-in-virtualbox/)
 * Distribuciones **GNU/Linux** **->** [DistroTest](https://distrotest.net/index.php)
 
@@ -102,9 +104,9 @@ Chincheta en el canal **#general** de **HackTheBox** en [H4ckNet](https://discor
 
 # <a name="denuncia">¿Cómo denunciar estafas, fraudes, suplantación de identidad, ciberbulllyng, etc?</a>
 
-En la **Policía Nacional**, a través de la **->** [Oficina Virtual de Denuncias](https://denuncias.policia.es/OVD/) o bien a través de los formularios de la **->** [Brigada Central de Investigación Tecnológica](https://www.policia.es/_es/colabora_informar.php?strTipo=CGPJDT)
+En la **Policía Nacional**, a través de la [Oficina Virtual de Denuncias](https://denuncias.policia.es/OVD/), o bien a través de los formularios de la [Brigada Central de Investigación Tecnológica](https://www.policia.es/_es/colabora_informar.php?strTipo=CGPJDT)
 
-En la **Guardia Civil** disponen de un **->** [Grupo de Delitos Telemáticos](https://www.gdt.guardiacivil.es/webgdt/pinformar.php), es necesario hacerlo en persona o a través de un representante legal.
+En la **Guardia Civil** disponen de un [Grupo de Delitos Telemáticos](https://www.gdt.guardiacivil.es/webgdt/pinformar.php), es necesario hacerlo en persona o a través de un representante legal.
 
 En el **INCIBE ->** [Instituto Nacional de Ciberseguridad](https://www.incibe.es/linea-de-ayuda-en-ciberseguridad)
 * **Línea telefónica gratuita 017**
@@ -112,4 +114,4 @@ En el **INCIBE ->** [Instituto Nacional de Ciberseguridad](https://www.incibe.es
 * [Puntos de contacto para empresas](https://www.incibe.es/formulario-contacto-empresas)
 * [Formulario para menores](https://www.is4k.es/ayuda)
 
-En la **AEPD ->** [Agencia Española de Protección de Datos](https://sedeagpd.gob.es/sede-electronica-web/vistas/infoSede/tramitesCiudadano.jsf), donde cuentan con una serie de  formularios en caso que los hacker hayan cometido una infracción contemplada dentro de la normativa de protección de datos.
+En la **AEPD ->** [Agencia Española de Protección de Datos](https://sedeagpd.gob.es/sede-electronica-web/vistas/infoSede/tramitesCiudadano.jsf), donde cuentan con una serie de  formularios en caso que los ciberdelincuentes hayan cometido una infracción contemplada dentro de la normativa de protección de datos.
