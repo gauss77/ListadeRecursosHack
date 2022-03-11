@@ -7,7 +7,7 @@
 * ### [S4vitar en Mastermind](#mastermind)
 * ### [Canales recomendados](#otros)
 ### **¿Cómo empiezo en Ciberseguridad?**
-* ### [Como empiezo](#comoempiezo)
+* ### [¿Como empiezo?](#comoempiezo)
 ### **Pentesting**
 * ### [¿Qué es HackTheBox?](#hackthebox)
 * ### [Plataformas para praciticar Pentesting](#pentesting)
@@ -20,12 +20,12 @@
 * ### [Aprende Bash](#bashlearn)
 * ### [Practica Bash](#bashpractice)
 ### **Python**
-* ### [Aprende y practica Python](#python)
+* ### [Aprende y practica Python](#pythonlearn)
 * ### [Tutorial en vídeo de Python](#pythontuto)
 ### **Scripting**
-* ### [Vídeos de Scripting en Bash y Python](#scripting)
+* ### [Vídeos de Scripting en Bash y Python](#scriptinglearn)
 ### **Denuncia**
-* ### [¿Cómo denunciar estafas, fraudes, suplantación de identidad, ciberbulllyng, etc?](#denuncia)
+* ### [¿Cómo denunciar estafas, fraudes, suplantación de identidad, ciberbulllyng, etc?](#denuncialo)
 
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="youtube">S4vitar en Youtube</a>
@@ -46,13 +46,13 @@
 
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="comoempiezo">¿Cómo empiezo?</a>
-Puedes escribir **!comoempiezo** en el canal **#bot** de [H4ckNet](https://discord.gg/u3dsh9M)
+Puedes escribir **!comoempiezo** en el canal **#bot** de [H4ckNet](https://discord.gg/u3dsh9M), o :point_down:
 
-o ir directo al vídeo desde aquí **->** [¿Cómo empezar en ciberseguridad? | S4vitar](https://www.youtube.com/watch?v=syqItp4p8Qw)
+ir directo al vídeo desde aquí **->** [¿Cómo empezar en ciberseguridad? | S4vitar](https://www.youtube.com/watch?v=syqItp4p8Qw)
 
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="hackthebox">¿Qué es HackTheBox?</a>
-Chincheta en el canal **#general** de **HackTheBox** en [H4ckNet](https://discord.gg/u3dsh9M)
+Chincheta :pushpin: en el canal **#general** de **HackTheBox** en [H4ckNet](https://discord.gg/u3dsh9M)
 
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="pentesting">Plataformas para practicar #pentesting</a>
@@ -70,7 +70,7 @@ Chincheta en el canal **#general** de **HackTheBox** en [H4ckNet](https://discor
 * [HackRocks](https://hackrocks.com/)
 * [Atenea](https://atenea.ccn-cert.cni.es/)
 * [HackMyVM](https://hackmyvm.eu/)
-* [TryHackMe](https://tryhackme.com/) *¡Con cuidado!*
+* [TryHackMe](https://tryhackme.com/) :warning: *¡Con cuidado!*
 
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="linux">GNU/Linux</a>
@@ -87,7 +87,7 @@ Chincheta en el canal **#general** de **HackTheBox** en [H4ckNet](https://discor
 * [OverTheWire](https://overthewire.org/wargames/bandit/)
 
 **- - - - - - - - - - - - - - - - - - - - -**
-## <a name="python">Aprende y practica Python</a>
+## <a name="pythonlearn">Aprende y practica Python</a>
 * [TuturialPython](https://tutorialpython.com/)
 * [Docs.Python](https://docs.python.org/es/3.11/tutorial/)
 * [HackerRank](https://www.hackerrank.com/)
@@ -97,17 +97,17 @@ Chincheta en el canal **#general** de **HackTheBox** en [H4ckNet](https://discor
 * [HdeLeon](https://hdeleon.net/curso-de-python-orientado-a-novatos/)
 
 **- - - - - - - - - - - - - - - - - - - - -**
-## <a name="scripting">Vídeos de Scripting en Bash y Python</a>
+## <a name="scriptinglearn">Vídeos de Scripting en Bash y Python</a>
 * Lista de **S4vitar** en [Youtube](https://www.youtube.com/watch?v=RUorAzaDftg&list=PLlb2ZjHtNkpjgtjnZjXHQojIrXd4DxRNg)
 * Ejercicios con **->** [Antonio Sánchez Corbalán](https://www.youtube.com/watch?v=Y950V89-a-s&list=PLN9u6FzF6DLSdJLrA1U_ss6sPAm3DXDC4)
 
 **- - - - - - - - - - - - - - - - - - - - -**
 
-**¡No olvides visitar la chincheta de cada canal, contienen + información!**
+:warning: **¡No olvides visitar la chincheta :pushpin: de cada canal, contienen + información!** :warning:
 
 **- - - - - - - - - - - - - - - - - - - - -**
 
-# <a name="denuncia">¿Cómo denunciar estafas, fraudes, suplantación de identidad, ciberbulllyng, etc?</a>
+# <a name="denuncialo">¿Cómo denunciar estafas, fraudes, suplantación de identidad, ciberbulllyng, etc?</a>
 
 En la **Policía Nacional**, a través de la [Oficina Virtual de Denuncias](https://denuncias.policia.es/OVD/), o bien a través de los formularios de la [Brigada Central de Investigación Tecnológica](https://www.policia.es/_es/colabora_informar.php?strTipo=CGPJDT)
 
