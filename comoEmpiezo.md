@@ -1,31 +1,31 @@
 # Lista de recursos de [H4ckNet](https://discord.gg/u3dsh9M) para empezar en Ciberseguridad
 
 ### **Canales**
-* ### [S4vitar en Youtube](#youtube)
-* ### [S4vitar en Twitch](#twitch)
-* ### [S4vitar en Odysee](#odysee)
-* ### [S4vitar en Mastermind](#mastermind)
-* ### [Canales recomendados](#otros)
+* [S4vitar en Youtube](#youtube)
+* [S4vitar en Twitch](#twitch)
+* [S4vitar en Odysee](#odysee)
+* [S4vitar en Mastermind](#mastermind)
+* [Canales recomendados](#otros)
 ### **¿Cómo empiezo en Ciberseguridad?**
-* ### [¿Como empiezo?](#comoempiezo)
+* [¿Como empiezo?](#comoempiezo)
 ### **Pentesting**
-* ### [¿Qué es HackTheBox?](#hackthebox)
-* ### [Plataformas para praciticar Pentesting](#pentesting)
+* [¿Qué es HackTheBox?](#hackthebox)
+* [Plataformas para praciticar Pentesting](#pentesting)
 ### **GNU/Linux**
-* ### [Aprende GNU/Linux](#linux)
-* ### [Practica online](#linux)
-* ### [Instala GNU/Linux en Virtual Box](#linux)
-* ### [Distribuciones GNU/Linux](#linux)
+* [Aprende GNU/Linux](#linux)
+* [Practica online](#linux)
+* [Instala GNU/Linux en Virtual Box](#linux)
+* [Distribuciones GNU/Linux](#linux)
 ### **Bash**
-* ### [Aprende Bash](#bashlearn)
-* ### [Practica Bash](#bashpractice)
+* [Aprende Bash](#bashlearn)
+* [Practica Bash](#bashpractice)
 ### **Python**
-* ### [Aprende y practica Python](#pythonlearn)
-* ### [Tutorial en vídeo de Python](#pythontuto)
+* [Aprende y practica Python](#pythonlearn)
+* [Tutorial en vídeo de Python](#pythontuto)
 ### **Scripting**
-* ### [Vídeos de Scripting en Bash y Python](#scriptinglearn)
+* [Vídeos de Scripting en Bash y Python](#scriptinglearn)
 ### **Denuncia**
-* ### [¿Cómo denunciar estafas, fraudes, suplantación de identidad, ciberbulllyng, etc?](#denuncialo)
+* [¿Cómo denunciar estafas, fraudes, suplantación de identidad, ciberbulllyng, etc?](#denuncialo)
 
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="youtube">S4vitar en Youtube</a>
