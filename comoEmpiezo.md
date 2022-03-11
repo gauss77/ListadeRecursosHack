@@ -51,7 +51,6 @@ Chincheta en el canal **#general** de **HackTheBox** en [H4ckNet](https://discor
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="pentesting">Plataformas para practicar #pentesting</a>
 * [HackTheBox](https://hackthebox.eu/)
-* <a href="example.com" target="_blank">New Tab</a>
 * [VulnHub](https://vulnhub.com/)
 * [OverTheWire](https://overthewire.org/)
 * [Root-Me](https://root-me.org/)
