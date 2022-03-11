@@ -1,6 +1,6 @@
 # Lista de recursos de [H4ckNet](https://discord.gg/u3dsh9M) para empezar en Ciberseguridad
 
-### **Canales**
+**Canales**
 * ### [S4vitar en Youtube](#youtube)
 * ### [S4vitar en Twitch](#twitch)
 * ### [S4vitar en Odysee](#odysee)
