@@ -52,7 +52,8 @@ ir directo al vídeo desde aquí **->** [¿Cómo empezar en ciberseguridad? | S4
 
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="hackthebox">¿Qué es HackTheBox?</a>
-Chincheta :pushpin: en el canal **#general** de **HackTheBox** en [H4ckNet](https://discord.gg/u3dsh9M)
+Chincheta :pushpin: en el canal **#general** de **HackTheBox** en [H4ckNet](https://discord.gg/u3dsh9M), o :point_down:
+al gist del autor **BinLAB ->** [¿Qué es HackTheBox?](https://gist.github.com/binlaab/b2ca9b36c6982df8b8145a8a12c7a2a1)
 
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="pentesting">Plataformas para practicar #pentesting</a>
