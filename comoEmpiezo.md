@@ -1,8 +1,9 @@
 <p align="center">
 <img src="https://lh3.googleusercontent.com/cHPM0NhgUoOiAEq6vunc0SKgwwrwVHCyg1PowRshXTEgMy_2oXiRmTklFsH8sXReaapJZEAcQyLRWs29E9Bx5DjuuWlAoMA84AXWsEJ6jg=w490-h275-rw" width="900" height="300"
 </p>
-
-# Lista de recursos de [Hack4u](https://discord.gg/u3dsh9M) para empezar en Ciberseguridad
+<p><h1 align="center">
+Lista de recursos de <a href="https://discord.gg/u3dsh9M) para empezar en Ciberseguridad" target="blank">Hack4u</a> para <br/>empezar en Ciberseguridad
+</h1></p>
 
 ### **Canales**
 * [S4vitar en Youtube](#youtube)
