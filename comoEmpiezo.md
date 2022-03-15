@@ -74,7 +74,7 @@ ir directo al gist del autor **BinLAB ->** [¿Qué es HackTheBox?](https://gist.
 * [bWapp](http://www.itsecgames.com/)
 * [OffensiveSecurity](https://www.offensive-security.com/)
 * [Crybary](https://www.cybrary.it/)
-* [HackRocks](https://hackrocks.com/)
+* [HackRocks](https://hackrocks.com/) *(En Español)*
 * [Atenea](https://atenea.ccn-cert.cni.es/)
 * [HackMyVM](https://hackmyvm.eu/)
 * [TryHackMe](https://tryhackme.com/) :warning: *¡Con cuidado!*
