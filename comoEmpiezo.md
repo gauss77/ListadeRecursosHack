@@ -15,7 +15,7 @@ Lista de recursos de <a href="https://discord.gg/u3dsh9M) para empezar en Cibers
 * [¿Como empiezo?](#comoempiezo)
 ### **Pentesting**
 * [¿Qué es HackTheBox?](#hackthebox)
-* [Plataformas para praciticar Pentesting](#pentesting)
+* [Plataformas para praciticar Pentesting](#pentesting1)
 ### **GNU/Linux**
 * [Aprende GNU/Linux](#linux)
 * [Practica online](#linux)
@@ -62,7 +62,7 @@ Chincheta :pushpin: en el canal **#general** de **HackTheBox** en [Hack4u](https
 ir directo al gist del autor **BinLAB ->** [¿Qué es HackTheBox?](https://gist.github.com/binlaab/b2ca9b36c6982df8b8145a8a12c7a2a1)
 
 **- - - - - - - - - - - - - - - - - - - - -**
-## <a name="pentesting">Plataformas para practicar #pentesting</a>
+## <a name="pentesting1">Plataformas para practicar #pentesting</a>
 * [HackTheBox](https://hackthebox.eu/)
 * [VulnHub](https://vulnhub.com/)
 * [OverTheWire](https://overthewire.org/)
