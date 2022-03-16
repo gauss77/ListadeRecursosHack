@@ -77,7 +77,10 @@ ir directo al gist del autor **BinLAB ->** [¿Qué es HackTheBox?](https://gist.
 * [HackRocks](https://hackrocks.com/) *(En Español)*
 * [Atenea](https://atenea.ccn-cert.cni.es/)
 * [HackMyVM](https://hackmyvm.eu/)
-* [TryHackMe](https://tryhackme.com/) :warning: *¡Con cuidado!*
+* [TryHackMe](https://tryhackme.com/) :warning: *¡Con cuidado!*  :point_down:
+
+<p align="center">Para los más osados <a href="https://github.com/Wh1teDrvg0n/safeVPN-THM" target="blank">safeVPN-THM</a> y la explicación al problema en la Web de <a href="https://wh1tedrvg0n.es/el-problema-de-la-vpn-de-tryhackme/" target="blank">WhiteDrvg0n</a>,<br/>
+o el vídeo de S4vitar, <a href="https://www.youtube.com/watch?v=RRHBGwwNi98 target="blank">La plataforma TRYHACKME NO es SEGURA y te lo DEMUESTRO</a>.</p>
 
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="linux">GNU/Linux</a>
