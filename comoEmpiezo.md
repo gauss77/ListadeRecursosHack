@@ -92,6 +92,7 @@ o el vídeo de S4vitar, <a href="https://www.youtube.com/watch?v=RRHBGwwNi98 tar
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="bashlearn">Aprende Bash</a>
 * [GoalKicker](https://books.goalkicker.com/BashBook/)
+*  Lista de [Atareao](https://atareao.es/) en Youtube **->** [Scripts en Bash](https://www.youtube.com/watch?v=Tgmp4mAkBpU&list=PL3lTiK2rXrUGkLL8Iz1KT5y5rddUvGeYv)
 ## <a name="bashpractice">Practica Bash</a>
 * [CmdChallenge](https://cmdchallenge.com/)
 * [OverTheWire](https://overthewire.org/wargames/bandit/)
