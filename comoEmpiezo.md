@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://lh3.googleusercontent.com/cHPM0NhgUoOiAEq6vunc0SKgwwrwVHCyg1PowRshXTEgMy_2oXiRmTklFsH8sXReaapJZEAcQyLRWs29E9Bx5DjuuWlAoMA84AXWsEJ6jg=w490-h275-rw" width="900" height="300"
+  <img src="https://lh3.googleusercontent.com/cHPM0NhgUoOiAEq6vunc0SKgwwrwVHCyg1PowRshXTEgMy_2oXiRmTklFsH8sXReaapJZEAcQyLRWs29E9Bx5DjuuWlAoMA84AXWsEJ6jg=w490-h275-rw" width="900" height="300">
 </p>
-<p><h1 align="center">
-Lista de recursos de <a href="https://discord.gg/u3dsh9M) para empezar en Ciberseguridad" target="blank">Hack4u</a> para <br/>empezar en Ciberseguridad
-</h1></p>
+<p>
+  <h1 align="center">Lista de recursos de <a href="https://discord.gg/u3dsh9M)" target="blank">Hack4u</a> para <br/>empezar en Ciberseguridad</h1>
+</p>
 
 ### **Canales**
 * [S4vitar en Youtube](#youtube)
@@ -131,3 +131,7 @@ En el **INCIBE ->** [Instituto Nacional de Ciberseguridad](https://www.incibe.es
 * [Formulario para menores](https://www.is4k.es/ayuda)
 
 En la **AEPD ->** [Agencia Española de Protección de Datos](https://sedeagpd.gob.es/sede-electronica-web/vistas/infoSede/tramitesCiudadano.jsf), donde cuentan con una serie de  formularios en caso que los ciberdelincuentes hayan cometido una infracción contemplada dentro de la normativa de protección de datos.
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLLZTevXoJ8pucRI0MJoG6lhgJikuhT7wpVW2geS4G3BP9wIecae7OAPyLai763V4Y5geCODoSgwoNrWLhsY4AlMBeajVme-8nXVcCforDYhAWWOu_9cUC7S3XycqlR3fcsh2lidEVTRV3xbEW1OOjCuPvjftUpuCc91G2fn05vPt1HVfoNsoVDn7vgA/s295/ciberdelincuente.jpg" width="900" height="300">
+</p>
