@@ -26,11 +26,11 @@
 * [Practica Bash](#bashpractice)
 ### **Python**
 * [Aprende y practica Python](#pythonlearn)
-* [Tutorial en vídeo de Python](#pythontuto)
+* [Tutoriales en vídeo de Python](#pythontuto)
 ### **Scripting**
 * [Vídeos de Scripting en Bash y Python](#scriptinglearn)
 ### **Denuncia**
-* [¿Cómo denunciar estafas, fraudes, suplantación de identidad, ciberbulllyng, etc?](#denuncialo)
+* [¿Cómo denunciar estafas, fraudes, suplantación de identidad, ciberbullying, etc?](#denuncialo)
 
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="youtube">S4vitar en Youtube</a>
@@ -104,8 +104,10 @@ o el vídeo de S4vitar, <a href="https://www.youtube.com/watch?v=RRHBGwwNi98 tar
 * [HackerRank](https://www.hackerrank.com/)
 * [CodeWars](https://www.codewars.com/?language=python)
 * [Exercism](https://exercism.org/)
-## <a name="pythontuto">Tutorial en vídeo de Python</a>
-* [HdeLeon](https://hdeleon.net/curso-de-python-orientado-a-novatos/)
+## <a name="pythontuto">Tutoriales en vídeo de Python</a>
+* [HdeLeon](https://www.youtube.com/watch?v=dZ1uaswBK2g&list=PLWYKfSbdsjJg9-Knrk6iKbM-u6Z33zavD)
+* [La Geekipedia De Ernesto](https://www.youtube.com/watch?v=mENHDQ8SLsI&list=PLyvsggKtwbLW1j0d5yaCkRF9Axpdlhsxz)
+* [PildorasInformaticas](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
 
 **- - - - - - - - - - - - - - - - - - - - -**
 ## <a name="scriptinglearn">Vídeos de Scripting en Bash y Python</a>
@@ -118,7 +120,7 @@ o el vídeo de S4vitar, <a href="https://www.youtube.com/watch?v=RRHBGwwNi98 tar
 
 **- - - - - - - - - - - - - - - - - - - - -**
 
-# <a name="denuncialo">¿Cómo denunciar estafas, fraudes, suplantación de identidad, ciberbulllyng, etc?</a>
+# <a name="denuncialo">¿Cómo denunciar estafas, fraudes, suplantación de identidad, ciberbullying, etc?</a>
 
 En la **Policía Nacional**, a través de la [Oficina Virtual de Denuncias](https://denuncias.policia.es/OVD/), o bien a través de los formularios de la [Brigada Central de Investigación Tecnológica](https://www.policia.es/_es/colabora_informar.php?strTipo=CGPJDT)
 
