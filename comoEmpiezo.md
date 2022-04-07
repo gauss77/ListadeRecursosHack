@@ -29,6 +29,11 @@
 * [Tutoriales en vídeo de Python](#pythontuto)
 ### **Scripting**
 * [Vídeos de Scripting en Bash y Python](#scriptinglearn)
+### **Instala nuestros entornos!**
+- [autoBspwm 2021](#entornos)
+- [autoAwesome 2022](#entornos)
+### **Manual de buenas prácticas!**
+- [Hábitos y prácticas para ayudar al sentido común](https://gist.github.com/BiS-9/c4f3d26576fff5faa433fbc8a58a997c)
 ### **Denuncia**
 * [¿Cómo denunciar estafas, fraudes, suplantación de identidad, ciberbullying, etc?](#denuncialo)
 
@@ -113,6 +118,13 @@ o el vídeo de S4vitar, <a href="https://www.youtube.com/watch?v=RRHBGwwNi98 tar
 ## <a name="scriptinglearn">Vídeos de Scripting en Bash y Python</a>
 * Lista de **S4vitar** en [Youtube](https://www.youtube.com/watch?v=RUorAzaDftg&list=PLlb2ZjHtNkpjgtjnZjXHQojIrXd4DxRNg)
 * Ejercicios con **->** [Antonio Sánchez Corbalán](https://www.youtube.com/watch?v=Y950V89-a-s&list=PLN9u6FzF6DLSdJLrA1U_ss6sPAm3DXDC4)
+
+**- - - - - - - - - - - - - - - - - - - - -**
+## <a name="entornos">Instala nuestros entornos!</a>
+
+Accede al artículo del creador del entorno 2021 **autoBspwm** :point_right: <a href="https://yorkox0.github.io/autoBspwm/">Yorkox</a>, o ve directo a su repositorio :point_right: <a href="https://github.com/yorkox0/autoBspwm">autoBspwm</a>
+
+Y desdes aquí, accedes al nuevo entorno 2022 **autoAwesome** de los creadores <a href="https://github.com/yorkox0">Yorkox</a> y <a href="https://github.com/Bleyom">Bleyom</a> :point_right: <a href="https://github.com/yorkox0/autoAwesome">autoAwesome</a> 2022
 
 **- - - - - - - - - - - - - - - - - - - - -**
 
