@@ -123,8 +123,12 @@ o el vídeo de S4vitar, <a href="https://www.youtube.com/watch?v=RRHBGwwNi98 tar
 ## <a name="entornos">Instala nuestros entornos!</a>
 
 Accede al artículo del creador del entorno 2021 **autoBspwm** :point_right: <a href="https://yorkox0.github.io/autoBspwm/">Yorkox</a>, o ve directo a su repositorio :point_right: <a href="https://github.com/yorkox0/autoBspwm">autoBspwm</a>
+Vídeo **autoBspwm** :point_right: <a href="https://www.youtube.com/watch?v=mHLwfI1nHHY">CONVIERTE TU LINUX EN UN ENTORNO PROFESIONAL DE TRABAJO (2021)</a>
+<a href="https://s4vitar.github.io/bspwm-configuration-files/">Archivos de configuración de Bspwm</a> y <a href="https://pastebin.com/EEX1Dsuq">Pastebin</a>
 
 Y desdes aquí, accedes al nuevo entorno 2022 **autoAwesome** de los creadores <a href="https://github.com/yorkox0">Yorkox</a> y <a href="https://github.com/Bleyom">Bleyom</a> :point_right: <a href="https://github.com/yorkox0/autoAwesome">autoAwesome</a> 2022
+Vídeo **autoAwesome** :point_right: <a href="https://www.youtube.com/watch?v=fshLf6u8B-w">ASÍ es el ENTORNO de un HACKER</a>
+<a href="https://drive.google.com/file/d/1Pgf38WefHAlLXxTdLG3eFBDyamNbKrFJ/view?usp=sharing">Obisidian</a>
 
 **- - - - - - - - - - - - - - - - - - - - -**
 
